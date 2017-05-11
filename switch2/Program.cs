@@ -98,18 +98,7 @@ namespace leapyear
 
 
 
-
-
-
-
-
-
-
-
                 }
-
-
-
 
 
 
@@ -120,11 +109,6 @@ namespace leapyear
                     salir = true;
                 }
             }
-
-
-
-
-
 
 
 
